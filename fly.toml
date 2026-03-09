@@ -1,0 +1,6 @@
+app = "onddriveshare"
+Primary_region = "iad"
+
+[http_service]
+  internal_port = 80
+  force_https = true
